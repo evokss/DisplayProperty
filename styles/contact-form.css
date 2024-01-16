@@ -1,0 +1,14 @@
+.user-name, .user-email {
+    display: block;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid gray;
+} 
+
+.user-name {
+    margin: 20px 20px 10px;
+}
+
+.user-email {
+    margin: 0px 20px;
+}
