@@ -1,0 +1,38 @@
+.ride-reqst-title {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 20px;
+}
+
+input {
+    display: block;
+    font-size: 15px;
+    border: none;
+    background-color: rgb(241, 241, 241);
+    padding: 12px 150px 12px 20px;
+}
+
+.pickup-input {
+    margin: 25px 20px 5px;
+}
+
+.dest-input {
+    margin: 0px 20px 35px;
+}
+
+button {
+    font-size: 15px;
+    border: none;
+    padding: 12px 20px;
+    cursor: pointer;
+}
+
+.reqst-btn {
+    color: white;
+    background-color: black;
+    margin: 0px 15px 0px 20px;
+}
+
+.sched-btn {
+    background-color: rgb(241, 241, 241);
+}
